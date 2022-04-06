@@ -5,7 +5,7 @@ This project is a WebGL molecule viewer made with Babylon.js.
 
 While the main purpose is to have fun with WebGL and Babylon.js, the end goal is to provide a simple component to embed 3D molecules in your website.
 
-Have a look at our [demo website](https://sciencelabshs.github.io/molvwr/#cyanocobalamin). We have examples for a [rich molecule catalog](https://sciencelabshs.github.io/molvwr), or an example of how to [embed Molvwr in your website](https://sciencelabshs.github.io/molvwr/embedexample.html).
+Have a look at our [demo website](https://sciencelabshs.github.io/molvwr/). We have examples for a [rich molecule catalog](https://sciencelabshs.github.io/molvwr), or an example of how to [embed Molvwr in your website](https://sciencelabshs.github.io/molvwr/embedexample.html).
 
 ## Supported molecule file formats
 Molvwr supports "xyz", "mol", "sdf", and "pdb" files. If you want an additional file format, please fill an issue
